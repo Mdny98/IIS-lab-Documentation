@@ -7,3 +7,4 @@ This a place that I put my codes, files, papers or any documentation of my works
 - NLP Resources
 - Presentation Links
 - Notable Courses
+- Hands-on
