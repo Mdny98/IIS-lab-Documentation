@@ -4,7 +4,7 @@ This a place that I put my codes, files, papers or any documentation of my works
 
 
 - LLM papers
-  - Quantify Persona Variable in LLMs
+  - Quantify Persona Variables in LLMs
   
   
 - NLP Resources
